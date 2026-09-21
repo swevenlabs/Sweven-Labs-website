@@ -1,0 +1,6 @@
+{
+  "name": "Sweven Labs",
+  "description": "Where Visions Become Technology. Independent software studio building intelligent web & mobile applications, SaaS products, and custom software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
